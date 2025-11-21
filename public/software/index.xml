@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IMPACT Software on IMPACT | Visualization &amp; Analysis Systems Technologies</title>
+    <link>http://localhost:1313/software/</link>
+    <description>Recent content in IMPACT Software on IMPACT | Visualization &amp; Analysis Systems Technologies</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 May 2022 09:23:51 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VAPOR</title>
+      <link>http://localhost:1313/software/vapor/</link>
+      <pubDate>Tue, 03 May 2022 09:23:51 -0600</pubDate>
+      <guid>http://localhost:1313/software/vapor/</guid>
+      <description>&lt;p&gt;VAPOR is the Visualization and Analysis Platform for Ocean, Atmosphere, and Solar Researchers. VAPOR provides an interactive 3D visualization environment that can also produce animations and still frame images. VAPOR runs on most UNIX and Windows systems equipped with modern 3D graphics cards.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GeoCAT</title>
+      <link>http://localhost:1313/software/geocat/</link>
+      <pubDate>Tue, 03 May 2022 09:23:17 -0600</pubDate>
+      <guid>http://localhost:1313/software/geocat/</guid>
+      <description>&lt;p&gt;Geoscience Community Analysis Toolkit (GeoCAT), established in 2019, is the&#xA;project with several software tools developed in Python in order to lead the&#xA;software engineering efforts of the National Center for Atmospheric Research&#xA;(NCAR) Computational and Information Systems Lab (CISL)’s “Pivot to Python”&#xA;initiative.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

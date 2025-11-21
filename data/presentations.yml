@@ -1,0 +1,218 @@
+enable : true
+title  : PRESENTATIONS
+image  : images/banners/aurora.jpg
+items  :
+
+  - title: Scientific Data Compressor Hands-on - SPERR
+    authors:
+      - Li, S.
+    conference: FZ Workshop
+    year: 2024
+    extra: Sarasota, FL
+    url: https://impact.ucar.edu/pdfs/Li_FZ2024.pdf
+
+  - title: Tutorial on Scientific Data Compression - SPERR
+    authors:
+      - Li, S.
+      - Lindstrom, P.
+      - Clyne, J.
+    conference: The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC23)
+    year: 2023
+    extra: Denver, CO
+    url: https://impact.ucar.edu/pdfs/Li_SC23_Slides.pdf
+
+  - title: Project Rajin and UXarray, community tools for the analysis of kilometer scale climate and weather model outputs
+    authors:
+      - Clyne, J.
+    conference: 20th ECMWF workshop on high performance computing in meteorology
+    year: 2023
+    extra: Balogna, Italy
+    url: https://docs.google.com/presentation/d/1QKySeckzeG9Q4SUe6-yXLRD23mC2-dulcxtXMknqPhA/edit?usp=sharing
+
+  - title: Lossy Scientific Data Compression With SPERR
+    authors:
+      - Li, S.
+      - Lindstrom, P.
+      - Clyne, J.
+    conference: 37th IEEE International Parallel & Distributed Processing Symposium (IPDPS)
+    year: 2023
+    extra: St. Petersburg, FL
+    url: https://impact.ucar.edu/pdfs/Li_IPDPS23_Slides.pdf
+
+  - title: Examining the Accessibility Barriers of Data Visualizations for Geoscience Professionals Who Are Blind/Vision-Impaired
+    authors:
+      - Cherukuru, N.
+      - Hathaway, B.
+      - Rehme, M.
+      - Bailey, D.
+      - Fourment, T.
+      - Holland, M.
+    conference: 2023 AMS Annual Meeting
+    year: 2023
+    extra: Denver, CO
+    url: https://drive.google.com/file/d/1V001BrSaTex-47X-huvdHQUeRPnt2vyl/view?usp=sharing
+
+  - title: VizAccess - Designing Scientific Visualizations That are Accessible to People Who are Blind/Vision-Impaired
+    authors:
+      - Hathaway, B.
+      - Cherukuru, N.
+      - Rehme, M.
+      - Bailey, D.
+      - Fourment, T.
+      - Holland, M.
+    conference: AGU 2022
+    year: 2022
+    extra: Chicago, IL
+    url: https://drive.google.com/file/d/1uUxu_K_aZgiiHf1JqpLek2AaBYc5sc8M/view?usp=sharing
+
+
+  - title: NCAR Earth System Data Science Community - Making the Python Scientific Ecosystem More Accessible to GeoScientists
+    authors:
+      - Kent, J.
+    conference: AMS Python 2023
+    year: 2023
+    extra: Denver, CO
+    url: https://drive.google.com/file/d/1CYRszpd-x72CXOEwb6yNfqy5XdoGbE6g/view?usp=share_link
+
+  - title: Project Pythia - A Pangeo Community Tool for Open-Source Education
+    authors:
+      - Kent, J.
+    conference: AGU 2022
+    year: 2022
+    extra: Chicago, IL
+    url: https://drive.google.com/file/d/1DPdDo73HMDK3njy5w2oDAXiG14J4zjaz/view?usp=share_link
+
+  - title: Update on Project Raijin -  Community geoscience analysis tools for unstructured grids
+    authors:
+      - Clyne, J.
+    conference: AGU 2022
+    year: 2022
+    extra: Chicago, IL
+    url: https://drive.google.com/file/d/1YshNBlvH0JOYqQHnljedcT-wmETopzhs/view?usp=share_link
+
+  - title: NCAR Pivot to Python
+    authors:
+      - Clyne, J.
+    conference: iCAS 2022
+    year: 2022
+    extra: Stresa, Italy
+    url: https://drive.google.com/file/d/1I1SPhU0Fp5wdyOd4_nwjbcEPTVioz6-a/view?usp=share_link
+
+  - title: Beyond Visuals - Examining the Experiences of Geoscience Professionals With Vision Disabilities in Accessing Data Visualizations
+    authors:
+      - Cherukuru, N.
+      - Rehme, M.
+      - Bailey, D.
+      - Fourment, T.
+      - Hathaway, B.
+      - Holland, M.
+    conference: IEEE Vis 2022
+    year: 2022
+    extra: Oklahoma City, OK
+    url: https://drive.google.com/file/d/1MBQyXLPWxeh-6bRD_JVWHR5rOLYqLrg6/view?usp=sharing
+
+  - title: Pivoting to Python - Lessons Learned in Recreating the NCAR Command Language in Python
+    authors:
+      - Sizemore, M.
+      - Eroglu, O.
+      - Zacharias, A.
+      - Kootz, A.
+    conference: AMS Annual Meeting 2022
+    year: 2022
+    url: https://ams.confex.com/ams/102ANNUAL/meetingapp.cgi/Paper/392637
+
+  - title: NCAR's GeoCAT Announcement of Computational Tools
+    authors:
+      - Craker, H.
+      - Kootz, A.
+      - Zacharias, A.
+      - Sizemore, M.
+      - Eroglu, O.
+    conference: AMS Annual Meeting 2022
+    year: 2022
+    url: https://ams.confex.com/ams/102ANNUAL/meetingapp.cgi/Paper/395377
+
+  - title: NCAR Earth System Data Science Initiative (ESDS) Educational Efforts
+    authors:
+      - Kent, J.
+    conference: AGU 2021
+    year: 2021
+    extra: New Orleans, LA
+    url: https://drive.google.com/file/d/1pidWOdzD9S95M-e1OvC04pY_tD5hURea/view?usp=share_link
+    
+  - title: Project Raijin - Community Geoscience Analysis Tools for Unstructured Grids
+    authors:
+      - Clyne, J.
+      - Eroglu, O.
+      - Medeiros, B.
+      - Zarzycki, C. M.
+    conference: AGU Fall Meeting 2021
+    year: 2021
+    url: https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/901711
+
+  - title: Pangeo and Project Pythia - Helping Geoscientists Navigate the Scientific Python Ecosystem (Invited)
+    authors:
+      - Paul, K.
+      - Banihirwe, A.
+      - Camron, D.
+      - Clyne, J.
+      - Eroglu, O.
+      - Grover, M.
+      - Kent, J.
+      - May, R.
+      - Rose, B. E. J.
+      - Tyle, K.
+    conference: AGU Fall Meeting 2021
+    year: 2021
+    url: https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/831257
+
+  - title: Expanding and Strengthening the Transition from NCL to Python Visualizations
+    authors:
+      - Lincoln, E.
+      - Li, J.
+      - Zacharias, A.
+      - Sizemore, M.
+      - Eroglu, O.
+      - Kent, J.
+    conference: AGU Fall Meeting 2021
+    year: 2021
+    url: https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/973469
+
+  - title: Geoscience Community Analysis Toolkit (GeoCAT)
+    authors:
+      - Eroglu, O.
+      - Clyne, J.
+      - Kootz, A.
+      - Sizemore, M.
+      - Zacharias, A.
+    conference: AMS Annual Meeting 2021
+    year: 2021
+    url: https://ams.confex.com/ams/101ANNUAL/meetingapp.cgi/Paper/379186
+
+  - title: Rebuilding the NCL Visualization Gallery in Python
+    authors:
+      - Craker, H. R.
+      - Fiorino, C. A.
+      - Sizemore, M. V.
+    conference: AMS Annual Meeting 2021
+    year: 2021
+    url: https://ams.confex.com/ams/101ANNUAL/meetingapp.cgi/Paper/378236
+
+  - title: GeoCAT - The NCL Pivot to Python
+    authors:
+      - Clyne, J.
+    conference: AMS Annual Meeting 2020
+    year: 2020
+    url: https://ams.confex.com/ams/2020Annual/meetingapp.cgi/Paper/365970
+
+  - title: Earth Science Data Visualization Through Augmented Coloring Books
+    authors:
+      - Cherukuru, N.
+      - Scheitlin, T.
+      - Rehme, M.
+    conference: AMS Annual Meeting 2018
+    year: 2018
+    url: https://opensky.ucar.edu/islandora/object/conference%3A3383
+
+
+
