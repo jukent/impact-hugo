@@ -6,8 +6,15 @@
     <description>Recent content on IMPACT | Visualization &amp; Analysis Systems Technologies</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Nov 2023 09:25:32 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 09:23:17 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MILES</title>
+      <link>http://localhost:1313/software/miles/</link>
+      <pubDate>Wed, 10 Dec 2025 09:23:17 -0600</pubDate>
+      <guid>http://localhost:1313/software/miles/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;</description>
+    </item>
     <item>
       <title>VAPOR in Nature</title>
       <link>http://localhost:1313/news/20231120-mininni-nature/</link>
