@@ -9,3 +9,5 @@ NCAR’s Visualization & Analysis Systems Technologies (IMPACT) section helps sc
 ---
 
 IMPACT leads the development of open source software used by scientists, university students, and faculty to visualize and analyze their data; creates informative,  data-driven visualizations to help explain complicated science, to the public, policy makers, and even other scientists;  educates practicing and aspiring new scientists on the most effective use of emerging technologies; and conducts research into new ways to manage and extract meaning from geoscience data.
+
+[Read more here](https://www.cisl.ucar.edu/news/cisl-launches-impact-section-accelerating-ai-earth-system-science).
