@@ -1,6 +1,6 @@
-baseURL       : https://impact.ucar.edu/
+baseURL       : https://jukent.github.io/impact-hugo/
 languageCode  : en-us
-title         : "IMPACT | Visualization & Analysis Systems Technologies"
+title         : "IMPACT | Intelligent Methods, Prediction, Analysis, and Community Tools"
 theme         : ncar
 enableGitInfo : true
 summarylength : 25
@@ -46,7 +46,7 @@ menu:
 params:
   name: IMPACT
   dateFormat: "26 FEB 1994"
-  description: "IMPACT is the Visualization & Analysis Systems Technologies section at the National Center for Atmospheric Research (NCAR)."
+  description: "IMPACT is the  Intelligent Methods, Prediction, Analysis, and Community Tools section at the NSF National Center for Atmospheric Research (NCAR)."
   author: "IMPACT"
   email: "impact@ucar.edu"
 
